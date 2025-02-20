@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate to innovative projects.
-- 😄 Pronouns: she/her
+- 😄 Pronouns: ♂️
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
 <!---
